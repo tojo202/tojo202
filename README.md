@@ -24,8 +24,7 @@
 
 <br />
 
-<details>
-  <summary><b><img src="https://api.iconify.design/lucide/code-2.svg" width="18" height="18" align="center" /> SKILLS and TOOLS</b></summary>
+<h2><img src="https://api.iconify.design/lucide/code-2.svg" width="18" height="18" align="center" /> SKILLS and TOOLS</h2>
   <br />
   <h4>Langages de programmation</h4>
   <p align="left">
@@ -67,7 +66,7 @@
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </p>
-</details>
+
 
 <br />
 
