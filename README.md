@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./tojoimage.jpg" alt="Tojo Banner" width="100%" />
+  <img src="https://github.com/tojo202/tojo202/blob/main/tojoimage.jpg" alt="Tojo Banner" width="100%" />
 </p>
 
 <p align="left">
