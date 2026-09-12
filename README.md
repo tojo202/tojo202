@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header-banner.jpg" alt="Tojo Banner" width="100%" style="border-radius: 10px;" />
+  <img src="./header-banner.jpg" alt="Tojo Banner" width="100%" />
 </p>
 
 <p align="left">
@@ -16,15 +16,9 @@
   <summary><b><img src="https://api.iconify.design/lucide/user.svg" width="18" height="18" align="center" /> À propos de moi</b></summary>
   <br />
   <ul>
-    <li>💻 <strong>Développeur Full-Stack</strong></li>
-    <li>🌱 <strong>Apprentissage continu des nouvelles technologies</strong></li>
-    <li>🧠 <strong>Maîtrise des structures de données, des algorithmes et de la résolution de problèmes.</strong> Je privilégie un code propre, maintenable et évolutif, tout en valorisant le travail collaboratif et les bonnes pratiques de développement.</li>
-    <li>⚡ <strong>Curieux & rigoureux :</strong> J'apprends vite et je livre du code fiable, testé et soigné.</li>
-    <li>🔄 <strong>Fullstack de bout en bout :</strong> Du design de l'API à l'interface, je maîtrise toute la chaîne.</li>
-    <li>🎯 <strong>Product Owner :</strong> Je traduis le besoin métier en user stories et en sprints.</li>
-    <li>💡 <strong>Mon approche :</strong> Comprendre, concevoir, créer, améliorer.</li>
-    <li>🐳 <strong>Conteneurisation et déploiement Cloud avec Docker.</strong></li>
-    <li>🎯 <strong>Passionné par la création de solutions numériques utiles, robustes et performantes.</strong></li>
+    <li> <strong>Développeur Full-Stack</strong></li>
+    <li> <strong>Curieux & rigoureux :</strong> J'apprends vite et je livre du code fiable, testé et soigné.</li>
+    <li> <strong>Passionné par la création de solutions numériques utiles, robustes et performantes.</strong></li>
   </ul>
 </details>
 
@@ -87,25 +81,6 @@
 
 <br />
 
-<details>
-  <summary><b><img src="https://api.iconify.design/lucide/folder-git-2.svg" width="18" height="18" align="center" /> Projets à la une</b></summary>
-  <br />
-  <h3>🎓 Élaboration et mise en œuvre d'un système de Gestion des Soutenances de Mémoire</h3>
-  <p>Une plateforme web et mobile pour la gestion des soutenances de mémoire de Master.</p>
-  <p><strong>Technologies :</strong> <code>Spring Boot</code> <code>Angular</code> <code>PostgreSQL</code> <code>Docker</code></p>
-  <p><strong>Fonctionnalités principales :</strong></p>
-  <ul>
-    <li>👨‍🎓 Gestion des étudiants</li>
-    <li>📚 Gestion des mémoires</li>
-    <li>👨‍🏫 Gestion des enseignants</li>
-    <li>⚖️ Gestion des jurys</li>
-    <li>🏫 Gestion des salles</li>
-    <li>📅 Planification des soutenances</li>
-    <li>🔔 Système de notifications</li>
-  </ul>
-</details>
-
-<br />
 
 <details>
   <summary><b><img src="https://api.iconify.design/lucide/globe.svg" width="18" height="18" align="center" /> Contact & Portfolio</b></summary>
