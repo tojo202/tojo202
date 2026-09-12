@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header-banner.jpg" alt="Tojo Banner" width="100%" />
+  <img src="./tojoimage.jpg" alt="Tojo Banner" width="100%" />
 </p>
 
 <p align="left">
@@ -71,16 +71,13 @@
 
 <br />
 
-<details>
-  <summary><b><img src="https://api.iconify.design/lucide/activity.svg" width="18" height="18" align="center" /> GitHub Activity</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tojo202&theme=dark&hide_border=true" alt="Série de contributions Tojo" height="175" />
-  </p>
-</details>
+<h2><img src="https://api.iconify.design/lucide/activity.svg" width="20" height="20" align="center" /> GitHub Activity</h2>
+<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tojo202&theme=dark&hide_border=true" alt="Série de contributions Tojo" height="175" />
+</p>
 
 <br />
-
 
 <details>
   <summary><b><img src="https://api.iconify.design/lucide/globe.svg" width="18" height="18" align="center" /> Contact & Portfolio</b></summary>
