@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-banner.jpg" alt="Tojo Banner" width="100%" style="border-radius: 10px;" />
+  <img src="header-banner.jpg" alt="Tojo Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 ---
 
 <details>
-  <summary><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18" height="18" /> À propos de moi</b></summary>
+  <summary><b><img src="https://api.iconify.design/lucide/user.svg" width="18" height="18" align="center" /> À propos de moi</b></summary>
   <br />
   <ul>
     <li>💻 <strong>Développeur Full-Stack</strong></li>
@@ -31,9 +31,9 @@
 <br />
 
 <details>
-  <summary><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18" height="18" /> Compétences & Outils</b></summary>
+  <summary><b><img src="https://api.iconify.design/lucide/code-2.svg" width="18" height="18" align="center" /> SKILLS and TOOLS</b></summary>
   <br />
-  <h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="16" height="16" /> Langages de programmation</h4>
+  <h4>Langages de programmation</h4>
   <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </p>
 
-  <h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16" height="16" /> Frameworks & Technologies</h4>
+  <h4>Frameworks & Technologies</h4>
   <p align="left">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   </p>
 
-  <h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="16" height="16" /> Outils & DevOps</h4>
+  <h4>Outils & DevOps</h4>
   <p align="left">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </p>
 
-  <h4><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="16" height="16" /> Bases de données</h4>
+  <h4>Bases de données</h4>
   <p align="left">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -78,21 +78,17 @@
 <br />
 
 <details>
-  <summary><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18" height="18" /> GitHub Activity</b></summary>
+  <summary><b><img src="https://api.iconify.design/lucide/activity.svg" width="18" height="18" align="center" /> GitHub Activity</b></summary>
   <br />
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tojo202&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Statistiques GitHub de Tojo" height="175" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tojo202&theme=dark&hide_border=true" alt="Série de contributions Tojo" height="175" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tojo202&layout=compact&theme=dark&hide_border=true" alt="Langages principaux" height="165" />
   </p>
 </details>
 
 <br />
 
 <details>
-  <summary><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="18" height="18" /> Projets à la une</b></summary>
+  <summary><b><img src="https://api.iconify.design/lucide/folder-git-2.svg" width="18" height="18" align="center" /> Projets à la une</b></summary>
   <br />
   <h3>🎓 Élaboration et mise en œuvre d'un système de Gestion des Soutenances de Mémoire</h3>
   <p>Une plateforme web et mobile pour la gestion des soutenances de mémoire de Master.</p>
@@ -112,7 +108,7 @@
 <br />
 
 <details>
-  <summary><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="18" height="18" /> Contact & Portfolio</b></summary>
+  <summary><b><img src="https://api.iconify.design/lucide/globe.svg" width="18" height="18" align="center" /> Contact & Portfolio</b></summary>
   <br />
   <p align="left">
     <strong>Portfolio :</strong> <a href="https://portfolio-tooj.vercel.app/" target="_blank">https://portfolio-tooj.vercel.app/</a>
